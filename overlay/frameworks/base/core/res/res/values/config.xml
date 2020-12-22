@@ -381,12 +381,6 @@
     <dimen name="status_bar_height_portrait">138px</dimen>
     <dimen name="status_bar_height_landscape">138px</dimen>
 
-    <!-- Whether device has dash charging support -->
-    <bool name="config_hasDashCharger">true</bool>
-
-    <!-- Whether device has warp charging support -->
-    <bool name="config_hasWarpCharger">true</bool>
-
     <!-- Radius of the software rounded corners at the top of the display in its natural
         orientation. If zero, the value of rounded_corner_radius is used. -->
     <dimen name="rounded_corner_radius_top">209px</dimen>
