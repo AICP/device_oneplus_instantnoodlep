@@ -41,4 +41,4 @@ BUILD_FINGERPRINT := OnePlus/OnePlus8Pro/OnePlus8Pro:10/QKQ1.191222.002/20053013
 
 # AICP Device Maintainers
 PRODUCT_BUILD_PROP_OVERRIDES += \
-    DEVICE_MAINTAINERS="doc HD (semdoc))"
+    DEVICE_MAINTAINERS="doc HD (semdoc)"
