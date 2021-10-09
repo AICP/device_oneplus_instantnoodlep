@@ -56,4 +56,6 @@
     <!-- Path to devices single-tap toggle file -->
     <string name="pathSTapToggle">/proc/touchpanel/single_tap_enable</string>
 
+    <!-- Path to devices game mode toggle file -->
+    <string name="pathGameModeToggle">/proc/touchpanel/force_game_switch_enable</string>
 </resources>
