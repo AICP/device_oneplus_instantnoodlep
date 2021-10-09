@@ -74,6 +74,10 @@ on boot
     chown system system /sys/class/power_supply/bms/battery_type
     chmod 0644 /sys/class/power_supply/bms/battery_type
 
+    # Force Game Mode
+    chown system system /proc/touchpanel/force_game_switch_enable
+    chmod 0666 /proc/touchpanel/force_game_switch_enable
+
 on post-fs
     # Vibration
     chown system system /sys/devices/platform/soc/a8c000.i2c/i2c-3/3-005a/leds/vibrator/level
