@@ -45,7 +45,7 @@ PRODUCT_PACKAGES += \
     init.recovery.target.rc
 
 # PowerShare
-PRODUCT_PACKAGES += \
+# PRODUCT_PACKAGES += \
     vendor.lineage.powershare@1.0-service.oneplus
 
 PRODUCT_SHIPPING_API_LEVEL := 29
