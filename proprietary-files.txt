@@ -128,6 +128,7 @@ vendor/lib64/com.qti.feature2.serializer.so
 vendor/lib64/com.qti.feature2.stub.so
 vendor/lib64/com.qti.feature2.swmf.so
 vendor/lib64/hw/camera.qcom.so
+vendor/lib64/hw/com.qti.chi.override.so
 vendor/lib64/lib_bokehlib.so
 vendor/lib64/lib_oneplus_vivideffect.so
 vendor/lib64/lib_oneplus_watermark.so
