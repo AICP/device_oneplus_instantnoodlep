@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2022 The Evolution X Project
+     Copyright (C) 2010 - 2022 AICP
+
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources>
+    <!-- Quiet Mode procfs node path, true, false -->
+    <string name="node_quiet_mode_switch">/proc/wireless/quiet_mode</string>
+    <string name="node_quiet_mode_switch_true">true</string>
+    <string name="node_quiet_mode_switch_false">false</string>
+</resources>
