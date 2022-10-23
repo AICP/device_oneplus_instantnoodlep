@@ -10,4 +10,9 @@
     <string name="node_quiet_mode_switch">/proc/wireless/quiet_mode</string>
     <string name="node_quiet_mode_switch_true">true</string>
     <string name="node_quiet_mode_switch_false">false</string>
+
+    <!-- GameMode procfs node path, true, false -->
+    <string name="node_game_mode_switch">/proc/touchpanel/game_switch_enable</string>
+    <string name="node_game_mode_switch_true">1, smooth_level:0, sensitive_level:0, high_frame_support:0, high_frame_value:0</string>
+    <string name="node_game_mode_switch_false">0, smooth_level:0, sensitive_level:0, high_frame_support:0, high_frame_value:0</string>
 </resources>
